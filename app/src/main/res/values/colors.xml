@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="hashbox_background">#080C12</color>
+    <color name="hashbox_card">#111923</color>
+    <color name="hashbox_card_dark">#151D27</color>
+
+    <color name="hashbox_blue">#1976D2</color>
+    <color name="hashbox_light_blue">#64B5F6</color>
+
+    <color name="hashbox_white">#FFFFFF</color>
+    <color name="hashbox_text_secondary">#8995A5</color>
+    <color name="hashbox_text_muted">#687586</color>
+
+    <color name="hashbox_green">#69E6A6</color>
+    <color name="hashbox_green_dark">#172A24</color>
+
+</resources>

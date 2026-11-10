@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599986739684",
+    "project_id": "facinabao-68246",
+    "storage_bucket": "facinabao-68246.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599986739684:android:00c625a978bb7b0fdecff1",
+        "android_client_info": {
+          "package_name": "com.example.facinabao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD9xzOPmS-LMNLl1KGET6TqIID4K6dur8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

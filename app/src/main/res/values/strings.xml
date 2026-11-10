@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Hashbox</string>
+    <string name="hashbox">HASHBOX</string>
+    <string name="hash">HASH</string>
+    <string name="secure_data_management">SECURE DATA MANAGEMENT</string>
+
+    <string name="welcome">WELCOME</string>
+    <string name="welcome_back">WELCOME BACK</string>
+    <string name="security_starts_here">Your security starts here.</string>
+    <string name="home_description">Protect, organize, and manage your important information in one secure place.</string>
+
+    <string name="checkmark">✓</string>
+    <string name="system_secure">SYSTEM SECURE</string>
+    <string name="data_ready">Your data is ready to be protected.</string>
+
+    <string name="get_started">GET STARTED</string>
+    <string name="create_secure_space">CREATE YOUR SECURE SPACE</string>
+    <string name="about_hashbox">ABOUT HASHBOX</string>
+    <string name="learn_more_about_hash">LEARN MORE ABOUT HASH</string>
+
+    <string name="why_hash">WHY HASH?</string>
+    <string name="why_hashbox">WHY HASHBOX?</string>
+    <string name="secure">SECURE</string>
+    <string name="private_title">PRIVATE</string>
+    <string name="built_with_security">Built with security in mind</string>
+    <string name="security_focused">Security-focused design</string>
+
+    <string name="icon_lock">🔒</string>
+    <string name="icon_lightning">⚡</string>
+
+    <string name="easy">EASY</string>
+    <string name="simple">SIMPLE</string>
+    <string name="simple_to_use">Simple and easy to use</string>
+    <string name="fast_and_easy">Fast and easy to use</string>
+
+    <string name="student_project">HASHBOX  •  STUDENT PROJECT</string>
+
+    <string name="hashbox_logo">Hashbox logo</string>
+    <string name="logo">Logo</string>
+
+
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="create_an_account">CREATE AN ACCOUNT</string>
+    <string name="secure_registration">SECURE REGISTRATION</string>
+    <string name="create_your_space">Create Your Space</string>
+    <string name="password_hint_min_6">Password (min 6 chars)</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="back_to_login">BACK TO LOGIN</string>
+    <string name="logout">LOG OUT</string>
+    <string name="logout_success">Logged out successfully</string>
+</resources>
